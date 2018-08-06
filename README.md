@@ -42,4 +42,4 @@ There are more than 15 connections that must be made between the plug-in-module 
 
 ## Feedback
 
-Please submit all issues to the github tracker. Pull requests are also encouraged. General comments can be left either inside github or at [mcuhq.com](http://mcuhq.com/33/diy-usb-oscilloscope-using-a-dspic)
+Please submit all issues to the github tracker. Pull requests are also encouraged. General comments can be left at [mcuhq.com](http://mcuhq.com/33/diy-usb-oscilloscope-using-a-dspic)
